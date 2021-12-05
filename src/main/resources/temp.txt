@@ -1,0 +1,5 @@
+***************ACCOUNT = acct1
+Amount deposited = 10000
+Amount withdrawn = 100
+Amount withdrawn = 100
+Amount deposited = 0
